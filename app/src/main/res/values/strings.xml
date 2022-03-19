@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Job Portal App</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="login_heading">LOG IN</string>
+    <string name="login_button_text">Log In</string>
+    <string name="or_text">OR</string>
+    <string name="register_button_text">Register</string>
+    <string name="registration_heading">REGISTRATION</string>
+    <string name="see_all_jobs_button">See All Jobs</string>
+    <string name="post_new_job_button">Post New Job</string>
+    <string name="job_title">Job Title:</string>
+    <string name="job_description">Job Description:</string>
+    <string name="job_skill">Skills:</string>
+    <string name="job_salary">Salary:</string>
+    <string name="post_job">Post Job</string>
+</resources>
